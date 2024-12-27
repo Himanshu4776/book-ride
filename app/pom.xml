@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bookRide</groupId>
-	<artifactId>app</artifactId>
+	<artifactId>reviewApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app</name>
 	<description>A Ride Booking application built with springboot and mysql</description>
